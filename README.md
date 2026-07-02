@@ -25,4 +25,4 @@ npm run build
 
 ## Live Demo
 
-(Add your Vercel URL here)
+https://flora-vision-42b3pbk7j-aazim-khursheeds-projects.vercel.app/
